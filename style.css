@@ -1,0 +1,48 @@
+body {
+    background-color: #ccc;
+    font-family: Helvetica, sans-serif;
+    color: #222;
+    margin-top: 100px;
+}
+
+section {
+    background-color: navy;
+    width: 1000px;
+    height: 300px;
+    margin: 0 auto;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: rgba(0,0,0,0.1) 0 0 20px;
+    border: 1px solid #aaa;
+}
+
+button {
+    width: 300px;
+    height: 280px;
+    margin: 10px;
+    padding: 20px;
+    background-color: red;
+    color: gold;
+    font-size: 50px;
+    font-family: serif;
+}
+
+button:hover {
+    background: rgb(53, 53, 255)
+}
+
+header {
+    background-color: Gold;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: blue;
+    font-size: 60px;
+    position: sticky;
+}
+
+h2 {
+    font-size: 30px;
+    color: red;
+    font-family: serif;
+}
